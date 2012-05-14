@@ -1,0 +1,544 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* SudokuAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {529, 464}}";
+			sepNavSelRange = "{455, 0}";
+			sepNavVisRange = "{0, 691}";
+			sepNavWindowFrame = "{{501, 57}, {705, 821}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* SudokuAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {529, 1170}}";
+			sepNavSelRange = "{397, 11}";
+			sepNavVisRange = "{370, 842}";
+			sepNavWindowFrame = "{{649, 57}, {705, 821}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = A69F76EC14C10E1B00568AA1 /* Sudoku */;
+		activeTarget = 8D1107260486CEB800E47090 /* Sudoku */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Sudoku */,
+		);
+		breakpoints = (
+			A68808D414C92211004A840D /* SudokuAppDelegate.m:36 */,
+		);
+		codeSenseManager = A69F76FF14C10E2F00568AA1 /* Code sense */;
+		executables = (
+			A69F76EC14C10E1B00568AA1 /* Sudoku */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					506,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					351,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					594,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 358021023;
+			PBXWorkspaceStateSaveDate = 358021023;
+		};
+		perUserProjectItems = {
+			A60DD21614F5E5830013892D /* PBXTextBookmark */ = A60DD21614F5E5830013892D /* PBXTextBookmark */;
+			A60DD21714F5E5830013892D /* PBXTextBookmark */ = A60DD21714F5E5830013892D /* PBXTextBookmark */;
+			A63481AF1511743F00629D45 /* PBXTextBookmark */ = A63481AF1511743F00629D45 /* PBXTextBookmark */;
+			A63481B01511743F00629D45 /* PBXTextBookmark */ = A63481B01511743F00629D45 /* PBXTextBookmark */;
+			A658651B14DDA79500976F6B /* PBXTextBookmark */ = A658651B14DDA79500976F6B /* PBXTextBookmark */;
+			A658651C14DDA79500976F6B /* PBXTextBookmark */ = A658651C14DDA79500976F6B /* PBXTextBookmark */;
+			A658652A14DDA84700976F6B /* PBXTextBookmark */ = A658652A14DDA84700976F6B /* PBXTextBookmark */;
+			A65AB8C714CA45600077C880 /* PBXTextBookmark */ = A65AB8C714CA45600077C880 /* PBXTextBookmark */;
+			A688067214C90CFE004A840D /* PBXTextBookmark */ = A688067214C90CFE004A840D /* PBXTextBookmark */;
+			A68806FE14C915DC004A840D /* PBXTextBookmark */ = A68806FE14C915DC004A840D /* PBXTextBookmark */;
+			A6C2E0C514C7B8A7002ED0D6 /* PBXTextBookmark */ = A6C2E0C514C7B8A7002ED0D6 /* PBXTextBookmark */;
+			A6C5EF931556F27600FDA394 /* PBXTextBookmark */ = A6C5EF931556F27600FDA394 /* PBXTextBookmark */;
+			A6C5F01A1556FCBD00FDA394 /* PBXTextBookmark */ = A6C5F01A1556FCBD00FDA394 /* PBXTextBookmark */;
+			A6C5F01B1556FCBD00FDA394 /* PBXTextBookmark */ = A6C5F01B1556FCBD00FDA394 /* PBXTextBookmark */;
+			A6C5F01C1556FCBD00FDA394 /* PBXTextBookmark */ = A6C5F01C1556FCBD00FDA394 /* PBXTextBookmark */;
+			A6C5F01D1556FCBD00FDA394 /* PBXTextBookmark */ = A6C5F01D1556FCBD00FDA394 /* PBXTextBookmark */;
+			A6C5F46B1557409F00FDA394 /* PBXTextBookmark */ = A6C5F46B1557409F00FDA394 /* PBXTextBookmark */;
+			A6FAC37D14E8357C0028A7AF /* PBXTextBookmark */ = A6FAC37D14E8357C0028A7AF /* PBXTextBookmark */;
+			A6FAC37E14E8357C0028A7AF /* PBXTextBookmark */ = A6FAC37E14E8357C0028A7AF /* PBXTextBookmark */;
+		};
+		sourceControlManager = A69F76FE14C10E2F00568AA1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Sudoku */ = {
+		activeExec = 0;
+		executables = (
+			A69F76EC14C10E1B00568AA1 /* Sudoku */,
+		);
+	};
+	A60DD21614F5E5830013892D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6C2E12E14C7C0EF002ED0D6 /* SudokuGuess.h */;
+		name = "SudokuGuess.h: 19";
+		rLen = 0;
+		rLoc = 360;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 249;
+	};
+	A60DD21714F5E5830013892D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6C2E12714C7C0EF002ED0D6 /* SudokuAIScheduler.h */;
+		name = "SudokuAIScheduler.h: 32";
+		rLen = 0;
+		rLoc = 795;
+		rType = 0;
+		vrLen = 955;
+		vrLoc = 0;
+	};
+	A63481AF1511743F00629D45 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6C2E13114C7C0EF002ED0D6 /* SudokuSquare.cpp */;
+		name = "SudokuSquare.cpp: 22";
+		rLen = 0;
+		rLoc = 359;
+		rType = 0;
+		vrLen = 505;
+		vrLoc = 421;
+	};
+	A63481B01511743F00629D45 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* SudokuAppDelegate.h */;
+		name = "SudokuAppDelegate.h: 25";
+		rLen = 0;
+		rLoc = 455;
+		rType = 0;
+		vrLen = 691;
+		vrLoc = 0;
+	};
+	A658651B14DDA79500976F6B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6C2E12414C7C0EF002ED0D6 /* SudokuAI.cpp */;
+		name = "SudokuAI.cpp: 34";
+		rLen = 0;
+		rLoc = 494;
+		rType = 0;
+		vrLen = 752;
+		vrLoc = 205;
+	};
+	A658651C14DDA79500976F6B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6C2E12514C7C0EF002ED0D6 /* SudokuAI.h */;
+		name = "SudokuAI.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 421;
+		vrLoc = 0;
+	};
+	A658652A14DDA84700976F6B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6740E3014C3B93800FACE06 /* SudokuSquare.h */;
+		name = "SudokuSquare.h: 12";
+		rLen = 0;
+		rLoc = 188;
+		rType = 0;
+		vrLen = 538;
+		vrLoc = 0;
+	};
+	A65AB8C714CA45600077C880 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6C2E12A14C7C0EF002ED0D6 /* SudokuGrid.cpp */;
+		name = "SudokuGrid.cpp: 120";
+		rLen = 0;
+		rLoc = 2352;
+		rType = 0;
+		vrLen = 536;
+		vrLoc = 265;
+	};
+	A6740E2C14C3B93800FACE06 /* SudokuMain.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = SudokuMain.cpp;
+		path = "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuMain.cpp";
+		sourceTree = "<absolute>";
+	};
+	A6740E3014C3B93800FACE06 /* SudokuSquare.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = SudokuSquare.h;
+		path = "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.h";
+		sourceTree = "<absolute>";
+	};
+	A688067214C90CFE004A840D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6C2E12914C7C0EF002ED0D6 /* SudokuAITask.h */;
+		name = "SudokuAITask.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 557;
+		vrLoc = 0;
+	};
+	A688067A14C90DCF004A840D /* ObjectCWrapper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {529, 420}}";
+			sepNavSelRange = "{265, 0}";
+			sepNavVisRange = "{0, 272}";
+		};
+	};
+	A68806FE14C915DC004A840D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6C2E12B14C7C0EF002ED0D6 /* SudokuGrid.h */;
+		name = "SudokuGrid.h: 28";
+		rLen = 0;
+		rLoc = 489;
+		rType = 0;
+		vrLen = 679;
+		vrLoc = 28;
+	};
+	A68808D414C92211004A840D /* SudokuAppDelegate.m:36 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* SudokuAppDelegate.m */;
+		functionName = "-setNum:::";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 36;
+		modificationTime = 358039553.112941;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	A69F76EC14C10E1B00568AA1 /* Sudoku */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Sudoku;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	A69F76FE14C10E2F00568AA1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A69F76FF14C10E2F00568AA1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A6C2E0AD14C7B5CB002ED0D6 /* SudokuWrapper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {529, 507}}";
+			sepNavSelRange = "{396, 0}";
+			sepNavVisRange = "{82, 680}";
+			sepNavWindowFrame = "{{672, 57}, {705, 821}}";
+		};
+	};
+	A6C2E0AE14C7B5CB002ED0D6 /* SudokuWrapper.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {529, 1365}}";
+			sepNavSelRange = "{909, 3}";
+			sepNavVisRange = "{3, 616}";
+			sepNavWindowFrame = "{{263, 49}, {705, 821}}";
+		};
+	};
+	A6C2E0C414C7B8A7002ED0D6 /* SudokuMain.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = SudokuMain.h;
+		path = "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuMain.h";
+		sourceTree = "<absolute>";
+	};
+	A6C2E0C514C7B8A7002ED0D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6740E2C14C3B93800FACE06 /* SudokuMain.cpp */;
+		name = "SudokuMain.cpp: 111";
+		rLen = 0;
+		rLoc = 3675;
+		rType = 0;
+		vrLen = 784;
+		vrLoc = 0;
+	};
+	A6C2E12414C7C0EF002ED0D6 /* SudokuAI.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {628, 4628}}";
+			sepNavSelRange = "{494, 0}";
+			sepNavVisRange = "{205, 752}";
+		};
+	};
+	A6C2E12514C7C0EF002ED0D6 /* SudokuAI.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {435, 506}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 421}";
+		};
+	};
+	A6C2E12614C7C0EF002ED0D6 /* SudokuAIScheduler.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {652, 2223}}";
+			sepNavSelRange = "{3307, 2}";
+			sepNavVisRange = "{2984, 330}";
+		};
+	};
+	A6C2E12714C7C0EF002ED0D6 /* SudokuAIScheduler.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {628, 585}}";
+			sepNavSelRange = "{795, 0}";
+			sepNavVisRange = "{0, 955}";
+			sepNavWindowFrame = "{{557, 31}, {705, 821}}";
+		};
+	};
+	A6C2E12814C7C0EF002ED0D6 /* SudokuAITask.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {824, 3237}}";
+			sepNavSelRange = "{499, 0}";
+			sepNavVisRange = "{382, 518}";
+			sepNavWindowFrame = "{{559, 56}, {705, 821}}";
+		};
+	};
+	A6C2E12914C7C0EF002ED0D6 /* SudokuAITask.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 741}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 557}";
+		};
+	};
+	A6C2E12A14C7C0EF002ED0D6 /* SudokuGrid.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 3601}}";
+			sepNavSelRange = "{1064, 10}";
+			sepNavVisRange = "{923, 238}";
+			sepNavWindowFrame = "{{2488, -32}, {705, 821}}";
+		};
+	};
+	A6C2E12B14C7C0EF002ED0D6 /* SudokuGrid.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 793}}";
+			sepNavSelRange = "{489, 0}";
+			sepNavVisRange = "{28, 679}";
+		};
+	};
+	A6C2E12D14C7C0EF002ED0D6 /* SudokuGuess.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 2405}}";
+			sepNavSelRange = "{1032, 0}";
+			sepNavVisRange = "{779, 960}";
+		};
+	};
+	A6C2E12E14C7C0EF002ED0D6 /* SudokuGuess.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {551, 611}}";
+			sepNavSelRange = "{360, 0}";
+			sepNavVisRange = "{249, 616}";
+		};
+	};
+	A6C2E12F14C7C0EF002ED0D6 /* SudokuMain.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {646, 1664}}";
+			sepNavSelRange = "{174, 0}";
+			sepNavVisRange = "{0, 1541}";
+			sepNavWindowFrame = "{{2057, -16}, {705, 821}}";
+		};
+	};
+	A6C2E13114C7C0EF002ED0D6 /* SudokuSquare.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {529, 897}}";
+			sepNavSelRange = "{359, 0}";
+			sepNavVisRange = "{421, 505}";
+		};
+	};
+	A6C5EF931556F27600FDA394 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6C5EF941556F27600FDA394 /* ChessEngineWrapper.h */;
+		name = "ChessEngineWrapper.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 228;
+		vrLoc = 0;
+	};
+	A6C5EF941556F27600FDA394 /* ChessEngineWrapper.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ChessEngineWrapper.h;
+		path = /Users/Mikey/Desktop/ChessUI/ChessEngineWrapper.h;
+		sourceTree = "<absolute>";
+	};
+	A6C5F01A1556FCBD00FDA394 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SudokuAppDelegate.m */;
+		name = "SudokuAppDelegate.m: 26";
+		rLen = 11;
+		rLoc = 397;
+		rType = 0;
+		vrLen = 842;
+		vrLoc = 370;
+	};
+	A6C5F01B1556FCBD00FDA394 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A688067A14C90DCF004A840D /* ObjectCWrapper.h */;
+		name = "ObjectCWrapper.h: 14";
+		rLen = 0;
+		rLoc = 265;
+		rType = 0;
+		vrLen = 272;
+		vrLoc = 0;
+	};
+	A6C5F01C1556FCBD00FDA394 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6C2E0AD14C7B5CB002ED0D6 /* SudokuWrapper.h */;
+		name = "SudokuWrapper.h: 20";
+		rLen = 0;
+		rLoc = 396;
+		rType = 0;
+		vrLen = 680;
+		vrLoc = 82;
+	};
+	A6C5F01D1556FCBD00FDA394 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6C2E0AE14C7B5CB002ED0D6 /* SudokuWrapper.mm */;
+		name = "SudokuWrapper.mm: 53";
+		rLen = 3;
+		rLoc = 909;
+		rType = 0;
+		vrLen = 474;
+		vrLoc = 1212;
+	};
+	A6C5F46B1557409F00FDA394 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6C2E0AE14C7B5CB002ED0D6 /* SudokuWrapper.mm */;
+		name = "SudokuWrapper.mm: 53";
+		rLen = 3;
+		rLoc = 909;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 3;
+	};
+	A6FAC37D14E8357C0028A7AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6C2E0C414C7B8A7002ED0D6 /* SudokuMain.h */;
+		name = "SudokuMain.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 241;
+		vrLoc = 0;
+	};
+	A6FAC37E14E8357C0028A7AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6C2E12D14C7C0EF002ED0D6 /* SudokuGuess.cpp */;
+		name = "SudokuGuess.cpp: 59";
+		rLen = 0;
+		rLoc = 1032;
+		rType = 0;
+		vrLen = 960;
+		vrLoc = 779;
+	};
+}

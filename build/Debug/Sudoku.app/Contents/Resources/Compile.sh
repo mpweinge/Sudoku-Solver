@@ -1,0 +1,1 @@
+g++ -o Sudoku SudokuMain.cpp SudokuSquare.cpp SudokuGrid.cpp SudokuAI.cpp SudokuGuess.cpp SudokuAIScheduler.cpp SudokuAITask.cpp

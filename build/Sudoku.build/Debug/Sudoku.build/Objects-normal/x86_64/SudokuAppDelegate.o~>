@@ -1,0 +1,9 @@
+/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m: In function 'void -[SudokuAppDelegate buttonClicked:](SudokuAppDelegate*, objc_selector*, NSButton*)':
+/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m:40: warning: 'SudokuWrapper' may not respond to '+getInstance'
+/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m:40: warning: (Messages without a matching method signature
+/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m:40: warning: will be assumed to return 'id' and accept
+/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m:40: warning: '...' as arguments.)
+/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m: In function 'void -[SudokuAppDelegate textFieldChanged2:](SudokuAppDelegate*, objc_selector*, NSMatrix*)':
+/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m:62: warning: 'SudokuWrapper' may not respond to '+getInstance'
+/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m:75: warning: 'SudokuWrapper' may not respond to '+getInstance'
+/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m:76: warning: 'SudokuWrapper' may not respond to '+getInstance'

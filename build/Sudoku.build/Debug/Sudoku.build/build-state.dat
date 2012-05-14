@@ -1,0 +1,643 @@
+TSudoku
+v7
+r0
+t348800128.855466
+cCheck dependencies
+cProcessInfoPlistFile /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Info.plist Sudoku-Info.plist
+cCopyStringsFile /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/English.lproj/MainMenu.xib
+cCpResource build/Debug/Sudoku.app/Contents/Resources/Compile.sh "Sudoku Project/Compile.sh"
+cCpResource build/Debug/Sudoku.app/Contents/Resources/Sudoku "Sudoku Project/Sudoku"
+cCpResource "build/Debug/Sudoku.app/Contents/Resources/Sudoku SDD.docx" "Sudoku Project/Sudoku SDD.docx"
+cCpResource build/Debug/Sudoku.app/Contents/Resources/SudokuGrid.h.gch "Sudoku Project/SudokuGrid.h.gch"
+cProcessPCH /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cmphoyvmbxidrdaiabemjhruhvid/Sudoku_Prefix.pch.gch Sudoku_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-bwdujhzjewagrjfnamccmhkewgsw/Sudoku_Prefix.pch.gch Sudoku_Prefix.pch normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-azbcglnojyvewccnrquzcsxdrsse/Sudoku_Prefix.pch.gch Sudoku_Prefix.pch normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cjaekopvkyajaearwmskhzhjwkan/Sudoku_Prefix.pch.gch Sudoku_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/main.o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAppDelegate.o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuWrapper.o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuWrapper.mm normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAI.o "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAI.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAIScheduler.o "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAIScheduler.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAITask.o "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAITask.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuGrid.o "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuGuess.o "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGuess.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuMain.o "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuMain.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuSquare.o "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/MacOS/Sudoku normal x86_64
+cTouch /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/assert.h
+c000000004BBD2CE90000000000000DCB
+t1270689001
+s3531
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004BBD2CE90000000000002C18
+t1270689001
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/English.lproj/InfoPlist.strings
+c000000004F10D69B000000000000002D
+t1326503579
+s45
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/English.lproj/MainMenu.xib
+c000000004F1A09F10000000000041643
+t1327106545
+s267843
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/ObjectCWrapper.h
+c000000004F18D7460000000000000110
+t1327028038
+s272
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/Compile.sh
+c000000004F0F87030000000000000080
+t1326417667
+s128
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/Constants.h
+c000000004F0FA958000000000000011D
+t1326426456
+s285
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/Sudoku
+c000000004F10F6D60000000000010D08
+t1326511830
+s68872
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/Sudoku SDD.docx
+c000000004F03ACFF000000000000F268
+t1325640959
+s62056
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAI.cpp
+c000000004F18D4EB0000000000002144
+t1327027435
+s8516
+i"SudokuAI.h"
+i"SudokuGuess.h"
+i<vector>
+i"SudokuAIScheduler.h"
+i"SudokuAITask.h"
+i"stdio.h"
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAI.h
+c000000004F0CDC9600000000000001A5
+t1326242966
+s421
+i"SudokuGrid.h"
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAIScheduler.cpp
+c000000004F0FADCA0000000000000CE7
+t1326427594
+s3303
+i"SudokuAIScheduler.h"
+i"assert.h"
+i"stdio.h"
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAIScheduler.h
+c000000004F178997000000000000044C
+t1326942615
+s1100
+i"Constants.h"
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAITask.cpp
+c000000004F0FAE1300000000000016FD
+t1326427667
+s5885
+i"SudokuAITask.h"
+i"SudokuGuess.h"
+i"SudokuGrid.h"
+i"SudokuAI.h"
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAITask.h
+c000000004F0F9AEC0000000000000428
+t1326422764
+s1064
+i"SudokuAIScheduler.h"
+i"SudokuGuess.h"
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.cpp
+c000000004F1A0CFE000000000000160E
+t1327107326
+s5646
+i"SudokuGrid.h"
+i"SudokuSquare.h"
+i"Constants.h"
+i"ObjectCWrapper.h"
+i<vector>
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.h
+c000000004F18D9E300000000000004D2
+t1327028707
+s1234
+i"SudokuSquare.h"
+i"Constants.h"
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.h.gch
+c000000004F17833E0000000000705DF0
+t1326940990
+s7364080
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGuess.cpp
+c000000004F1A0C7E0000000000001118
+t1327107198
+s4376
+i"SudokuGuess.h"
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGuess.h
+c000000004F0E40D00000000000000361
+t1326334160
+s865
+i"Constants.h"
+i"SudokuGrid.h"
+i<vector>
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuMain.cpp
+c000000004F1789CA0000000000000FE0
+t1326942666
+s4064
+i"SudokuMain.h"
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuMain.h
+c000000004F079ED500000000000000F1
+t1325899477
+s241
+i"SudokuGrid.h"
+i"SudokuSquare.h"
+i"SudokuAI.h"
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.cpp
+c000000004F08B6100000000000000419
+t1325970960
+s1049
+i"SudokuSquare.h"
+i"Constants.h"
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.h
+c000000004F137CB1000000000000021A
+t1326677169
+s538
+i"Constants.h"
+i<vector>
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.h
+c000000004F18ED61000000000000029A
+t1327033697
+s666
+i<Cocoa/Cocoa.h>
+i"SudokuWrapper.h"
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m
+c000000004F18ED5900000000000007E9
+t1327033689
+s2025
+i"SudokuAppDelegate.h"
+i<ctype.h>
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuWrapper.h
+c000000004F1A0AA400000000000002F8
+t1327106724
+s760
+i<Cocoa/Cocoa.h>
+i"ObjectCWrapper.h"
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuWrapper.mm
+c000000004F1A0AF50000000000000694
+t1327106805
+s1684
+i"SudokuWrapper.h"
+i"./Sudoku Project/SudokuGrid.h"
+i"./Sudoku Project/SudokuAI.h"
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku_Prefix.pch
+c000000004F10D69B000000000000008F
+t1326503579
+s143
+i<Cocoa/Cocoa.h>
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app
+t1327107328
+s102
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Info.plist
+t1326504388
+s883
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/MacOS/Sudoku
+t1327107328
+s105072
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/PkgInfo
+t1326504388
+s8
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Resources/Compile.sh
+t1326942588
+s128
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1326504389
+s92
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Resources/English.lproj/MainMenu.nib
+t1327106548
+s51694
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Resources/Sudoku
+t1326942588
+s68872
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Resources/Sudoku SDD.docx
+t1326942588
+s62056
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Resources/SudokuGrid.h.gch
+t1326942588
+s7364080
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/Sudoku.LinkFileList
+c000000004F17897C0000000000000504
+t1326942588
+s1284
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAI.o
+t1327028709
+s41804
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAIScheduler.o
+t1326942616
+s10668
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAITask.o
+t1327028709
+s47900
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAppDelegate.o
+t1327106728
+s34132
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuGrid.o
+t1327107328
+s79684
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuGuess.o
+t1327107200
+s66776
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuMain.o
+t1327028710
+s15388
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuSquare.o
+t1326942589
+s67332
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuWrapper.o
+t1327106810
+s43784
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/main.o
+t1326504397
+s5016
+
+N/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/main.m
+c000000004F10D69B0000000000000101
+t1326503579
+s257
+i<Cocoa/Cocoa.h>
+
+N/var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-azbcglnojyvewccnrquzcsxdrsse/Sudoku_Prefix.pch.gch
+t1326939967
+s58648208
+
+N/var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-bwdujhzjewagrjfnamccmhkewgsw/Sudoku_Prefix.pch.gch
+t1326678454
+s58648208
+
+N/var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cjaekopvkyajaearwmskhzhjwkan/Sudoku_Prefix.pch.gch
+t1326942588
+s2523504
+
+N/var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cmphoyvmbxidrdaiabemjhruhvid/Sudoku_Prefix.pch.gch
+t1326504396
+s54306576
+
+NSudoku-Info.plist
+c000000004F10D69B00000000000003EA
+t1326503579
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies348800128#348800128#0(0"0(0#1#0"8618925472#0"0#
+
+CCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAI.o "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAI.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s348721509.176682
+e348721509.495892
+r1
+xCompileC
+xbuild/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAI.o
+x/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAI.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAI.cpp348721509#348721509#0(0"0(0#0#81"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAI.cpp8628431584#1633"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-generated-files.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-own-target-headers.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-all-target-headers.hmap -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-project-headers.hmap -F/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/include -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources/x86_64 -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources -include /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cjaekopvkyajaearwmskhzhjwkan/Sudoku_Prefix.pch -c "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAI.cpp" -o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAI.o0#
+
+CCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAIScheduler.o "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAIScheduler.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s348635416.728220
+e348635416.804186
+r1
+xCompileC
+xbuild/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAIScheduler.o
+x/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAIScheduler.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAIScheduler.cpp: In member function 'int AIScheduler::Enqueue(AITask*)':
+o/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAIScheduler.cpp:154: warning: control reaches end of non-void function
+lSLF07#2@98"Compile /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAIScheduler.cpp348635416#348635416#0(294"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAIScheduler.cpp: In member function 'int AIScheduler::Enqueue(AITask*)':/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAIScheduler.cpp:154: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function348635416#148#146#0(6@90"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAIScheduler.cpp348120394#154#0#154#0#40"control reaches end of non-void function0(0#0#90"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAIScheduler.cpp8616554528#1651"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-generated-files.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-own-target-headers.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-all-target-headers.hmap -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-project-headers.hmap -F/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/include -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources/x86_64 -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources -include /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cjaekopvkyajaearwmskhzhjwkan/Sudoku_Prefix.pch -c "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAIScheduler.cpp" -o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAIScheduler.o0#
+
+CCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAITask.o "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAITask.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s348721509.357192
+e348721509.715544
+r1
+xCompileC
+xbuild/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAITask.o
+x/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAITask.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAITask.cpp: In member function 'virtual void SweepTask::main()':
+o/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAITask.cpp:33: warning: unused variable 'newNumber'
+lSLF07#2@93"Compile /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAITask.cpp348721509#348721509#0(267"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAITask.cpp: In member function 'virtual void SweepTask::main()':/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAITask.cpp:33: warning: unused variable 'newNumber'1(22@27"Unused variable 'newNumber'348721509#140#127#0(6@85"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAITask.cpp348120467#33#0#33#0#19"unused variable '*'0(0#0#85"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAITask.cpp8618325568#1641"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-generated-files.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-own-target-headers.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-all-target-headers.hmap -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-project-headers.hmap -F/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/include -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources/x86_64 -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources -include /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cjaekopvkyajaearwmskhzhjwkan/Sudoku_Prefix.pch -c "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuAITask.cpp" -o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAITask.o0#
+
+CCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAppDelegate.o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s348369971.881965
+e348369972.028988
+r0
+xCompileC
+xbuild/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAppDelegate.o
+x/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.h:13,
+o                 from /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m:11:
+o/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.h:14:18: error: vector: No such file or directory
+oIn file included from /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.h:13,
+o                 from /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m:11:
+o/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.h:16: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'SudokuSquare'
+oIn file included from /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m:11:
+o/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.h:16: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'SudokuGrid'
+lSLF07#2@81"Compile /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m348369971#348369972#0(976"In file included from /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.h:13,                 from /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m:11:/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.h:14:18: error: vector: No such file or directoryIn file included from /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.h:13,                 from /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m:11:/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.h:16: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'SudokuSquare'In file included from /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m:11:/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.h:16: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'SudokuGrid'3(4@33"Vector: No such file or directory348369971#208#132#3(7@95"In file included from /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m348369971#18446744073709551615#0#0(6@73"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m348369907#11#0#11#0#0"0(7@103"In file included from /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.h348369971#18446744073709551615#0#0(6@81"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.h348021684#13#0#13#0#0"0(13@120"Vector: No such file or directory in /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.h348369971#18446744073709551615#0#0(6@83"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.h348369969#14#0#14#0#0"0(6@83"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.h348369969#14#0#14#0#28"*: No such file or directory0(4@70"Expected '=', ',', ';', 'asm' or '__attribute__' before 'SudokuSquare'348369971#548#166#3(7@95"In file included from /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m348369971#18446744073709551615#0#0(6@73"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m348369907#11#0#11#0#0"0(7@103"In file included from /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.h348369971#18446744073709551615#0#0(6@81"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.h348021684#13#0#13#0#0"0(13@157"Expected '=', ',', ';', 'asm' or '__attribute__' before 'SudokuSquare' in /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.h348369971#18446744073709551615#0#0(6@83"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.h348369969#16#0#16#0#0"0(6@83"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.h348369969#16#0#16#0#19"expected * before *0(4@68"Expected '=', ',', ';', 'asm' or '__attribute__' before 'SudokuGrid'348369971#814#162#2(7@95"In file included from /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m348369971#18446744073709551615#0#0(6@73"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m348369907#11#0#11#0#0"0(13@153"Expected '=', ',', ';', 'asm' or '__attribute__' before 'SudokuGrid' in /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.h348369971#18446744073709551615#0#0(6@81"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.h348021684#16#0#16#0#0"0(6@81"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.h348021684#16#0#16#0#19"expected * before *0(0#0#73"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m8605364640#1623"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-generated-files.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-own-target-headers.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-all-target-headers.hmap -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-project-headers.hmap -F/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/include -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources/x86_64 -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources -include /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cmphoyvmbxidrdaiabemjhruhvid/Sudoku_Prefix.pch -c /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m -o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAppDelegate.o1#
+
+CCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAppDelegate.o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+s348799527.549266
+e348799528.520568
+r1
+xCompileC
+xbuild/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAppDelegate.o
+x/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m348799527#348799528#0(0"0(0#0#73"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m8604738656#1659"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-generated-files.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-own-target-headers.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-all-target-headers.hmap -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-project-headers.hmap -F/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/include -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources/x86_64 -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources -x objective-c++ -include /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-bwdujhzjewagrjfnamccmhkewgsw/Sudoku_Prefix.pch -c /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuAppDelegate.m -o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuAppDelegate.o0#
+
+CCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuGrid.o "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s348800128.544938
+e348800128.801234
+r1
+xCompileC
+xbuild/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuGrid.o
+x/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.cpp348800128#348800128#0(0"0(0#0#83"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.cpp8622319008#1637"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-generated-files.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-own-target-headers.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-all-target-headers.hmap -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-project-headers.hmap -F/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/include -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources/x86_64 -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources -include /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cjaekopvkyajaearwmskhzhjwkan/Sudoku_Prefix.pch -c "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.cpp" -o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuGrid.o0#
+
+CCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuGuess.o "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGuess.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s348800000.001910
+e348800000.211641
+r1
+xCompileC
+xbuild/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuGuess.o
+x/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGuess.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGuess.cpp348800000#348800000#0(0"0(0#0#84"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGuess.cpp8617689696#1639"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-generated-files.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-own-target-headers.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-all-target-headers.hmap -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-project-headers.hmap -F/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/include -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources/x86_64 -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources -include /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cjaekopvkyajaearwmskhzhjwkan/Sudoku_Prefix.pch -c "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGuess.cpp" -o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuGuess.o0#
+
+CCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuMain.o "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuMain.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s348721509.797611
+e348721510.081883
+r1
+xCompileC
+xbuild/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuMain.o
+x/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuMain.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuMain.cpp348721509#348721510#0(0"0(0#0#83"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuMain.cpp8615857792#1637"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-generated-files.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-own-target-headers.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-all-target-headers.hmap -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-project-headers.hmap -F/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/include -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources/x86_64 -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources -include /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cjaekopvkyajaearwmskhzhjwkan/Sudoku_Prefix.pch -c "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuMain.cpp" -o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuMain.o0#
+
+CCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuSquare.o "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s348635389.215892
+e348635389.469442
+r1
+xCompileC
+xbuild/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuSquare.o
+x/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.cpp348635389#348635389#0(0"0(0#0#85"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.cpp8617690048#1641"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-generated-files.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-own-target-headers.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-all-target-headers.hmap -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-project-headers.hmap -F/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/include -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources/x86_64 -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources -include /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cjaekopvkyajaearwmskhzhjwkan/Sudoku_Prefix.pch -c "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuSquare.cpp" -o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuSquare.o0#
+
+CCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuWrapper.o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuWrapper.mm normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+s348799610.395268
+e348799610.620715
+r1
+xCompileC
+xbuild/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuWrapper.o
+x/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuWrapper.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuWrapper.mm348799610#348799610#0(0"0(0#0#70"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuWrapper.mm8617635488#1635"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-generated-files.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-own-target-headers.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-all-target-headers.hmap -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-project-headers.hmap -F/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/include -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources/x86_64 -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources -include /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-azbcglnojyvewccnrquzcsxdrsse/Sudoku_Prefix.pch -c /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/SudokuWrapper.mm -o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/SudokuWrapper.o0#
+
+CCompileC build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/main.o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s348197196.896901
+e348197197.311974
+r1
+xCompileC
+xbuild/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/main.o
+x/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/main.m348197196#348197197#0(0"0(0#0#60"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/main.m8616198688#1597"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-generated-files.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-own-target-headers.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-all-target-headers.hmap -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-project-headers.hmap -F/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/include -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources/x86_64 -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources -include /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cmphoyvmbxidrdaiabemjhruhvid/Sudoku_Prefix.pch -c /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/main.m -o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/English.lproj/MainMenu.xib
+s348799348.009551
+e348799348.798864
+r1
+xCompileXIB
+x/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib348799348#348799348#0(0"0(0#0#80"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/English.lproj/MainMenu.xib31525674140565612#410"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Resources/English.lproj/MainMenu.nib /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s348197188.850165
+e348197189.270835
+r1
+xCopyStringsFile
+x/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings348197188#348197189#0(0"0(0#0#85"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/English.lproj/InfoPlist.strings8614654304#396"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Resources/English.lproj0#
+
+CCpResource "build/Debug/Sudoku.app/Contents/Resources/Sudoku SDD.docx" "Sudoku Project/Sudoku SDD.docx"
+s348635388.372140
+e348635388.385855
+r1
+xCpResource
+xbuild/Debug/Sudoku.app/Contents/Resources/Sudoku SDD.docx
+xSudoku Project/Sudoku SDD.docx
+lSLF07#2@35"Copy Sudoku Project/Sudoku SDD.docx348635388#348635388#0(0"0(0#0#84"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/Sudoku SDD.docx8625256288#408"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/Sudoku SDD.docx" /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Resources0#
+
+CCpResource build/Debug/Sudoku.app/Contents/Resources/Compile.sh "Sudoku Project/Compile.sh"
+s348635388.353289
+e348635388.382844
+r1
+xCpResource
+xbuild/Debug/Sudoku.app/Contents/Resources/Compile.sh
+xSudoku Project/Compile.sh
+lSLF07#2@30"Copy Sudoku Project/Compile.sh348635388#348635388#0(0"0(0#0#79"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/Compile.sh8616670752#403"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/Compile.sh" /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Resources0#
+
+CCpResource build/Debug/Sudoku.app/Contents/Resources/Sudoku "Sudoku Project/Sudoku"
+s348635388.361906
+e348635388.386738
+r1
+xCpResource
+xbuild/Debug/Sudoku.app/Contents/Resources/Sudoku
+xSudoku Project/Sudoku
+lSLF07#2@26"Copy Sudoku Project/Sudoku348635388#348635388#0(0"0(0#0#75"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/Sudoku8628048320#399"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/Sudoku" /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Resources0#
+
+CCpResource build/Debug/Sudoku.app/Contents/Resources/SudokuGrid.h.gch "Sudoku Project/SudokuGrid.h.gch"
+s348635388.372901
+e348635388.570833
+r1
+xCpResource
+xbuild/Debug/Sudoku.app/Contents/Resources/SudokuGrid.h.gch
+xSudoku Project/SudokuGrid.h.gch
+lSLF07#2@36"Copy Sudoku Project/SudokuGrid.h.gch348635388#348635388#0(0"0(0#0#85"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.h.gch8624508576#409"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku Project/SudokuGrid.h.gch" /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Resources0#
+
+CLd /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/MacOS/Sudoku normal x86_64
+s348800128.801313
+e348800128.852552
+r1
+xLd
+x/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/MacOS/Sudoku
+xnormal
+xx86_64
+lSLF07#2@103"Link /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/MacOS/Sudoku348800128#348800128#0(0"0(0#0#0"8616963936#614"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug -F/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug -filelist /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Objects-normal/x86_64/Sudoku.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/MacOS/Sudoku0#
+
+CProcessInfoPlistFile /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Info.plist Sudoku-Info.plist
+s348197188.819954
+e348197188.850055
+r1
+xProcessInfoPlistFile
+x/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Info.plist
+xSudoku-Info.plist
+lSLF07#2@25"Process Sudoku-Info.plist348197188#348197188#0(0"0(0#0#71"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku-Info.plist27584749588775020#354"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    builtin-infoPlistUtility Sudoku-Info.plist -genpkginfo /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cmphoyvmbxidrdaiabemjhruhvid/Sudoku_Prefix.pch.gch Sudoku_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s348197190.591071
+e348197196.896689
+r1
+xProcessPCH
+x/var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cmphoyvmbxidrdaiabemjhruhvid/Sudoku_Prefix.pch.gch
+xSudoku_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Sudoku_Prefix.pch348197190#348197196#0(0"0(0#0#71"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku_Prefix.pch8619652448#1489"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-generated-files.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-own-target-headers.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-all-target-headers.hmap -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-project-headers.hmap -F/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/include -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources/x86_64 -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources -c /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku_Prefix.pch -o /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cmphoyvmbxidrdaiabemjhruhvid/Sudoku_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-azbcglnojyvewccnrquzcsxdrsse/Sudoku_Prefix.pch.gch Sudoku_Prefix.pch normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+s348632762.038635
+e348632767.559256
+r1
+xProcessPCH++
+x/var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-azbcglnojyvewccnrquzcsxdrsse/Sudoku_Prefix.pch.gch
+xSudoku_Prefix.pch
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Sudoku_Prefix.pch348632762#348632767#0(0"0(0#0#71"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku_Prefix.pch8623289408#1508"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-generated-files.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-own-target-headers.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-all-target-headers.hmap -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-project-headers.hmap -F/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/include -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources/x86_64 -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources -c /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku_Prefix.pch -o /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-azbcglnojyvewccnrquzcsxdrsse/Sudoku_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-bwdujhzjewagrjfnamccmhkewgsw/Sudoku_Prefix.pch.gch Sudoku_Prefix.pch normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+s348371248.755737
+e348371254.513574
+r1
+xProcessPCH++
+x/var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-bwdujhzjewagrjfnamccmhkewgsw/Sudoku_Prefix.pch.gch
+xSudoku_Prefix.pch
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Sudoku_Prefix.pch348371248#348371254#0(0"0(0#0#71"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku_Prefix.pch8629492256#1532"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-generated-files.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-own-target-headers.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-all-target-headers.hmap -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-project-headers.hmap -F/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/include -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources/x86_64 -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources -x objective-c++-header -c /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku_Prefix.pch -o /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-bwdujhzjewagrjfnamccmhkewgsw/Sudoku_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cjaekopvkyajaearwmskhzhjwkan/Sudoku_Prefix.pch.gch Sudoku_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+s348635388.571208
+e348635388.653374
+r1
+xProcessPCH++
+x/var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cjaekopvkyajaearwmskhzhjwkan/Sudoku_Prefix.pch.gch
+xSudoku_Prefix.pch
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Sudoku_Prefix.pch348635388#348635388#0(0"0(0#0#71"/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku_Prefix.pch8616365120#1498"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-generated-files.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-own-target-headers.hmap -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-all-target-headers.hmap -iquote /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/Sudoku-project-headers.hmap -F/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/include -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources/x86_64 -I/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Sudoku.build/Debug/Sudoku.build/DerivedSources -c /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/Sudoku_Prefix.pch -o /var/folders/8P/8PFzQ9snEvq9UC3kKA0l0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Prefix-cjaekopvkyajaearwmskhzhjwkan/Sudoku_Prefix.pch.gch0#
+
+CTouch /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app
+s348800128.852643
+e348800128.855424
+r1
+xTouch
+x/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app
+lSLF07#2@82"Touch /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app348800128#348800128#0(0"0(0#0#0"8604402944#162"    cd "/Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku"    /usr/bin/touch -c /Users/Mikey/Desktop/Programming:Hacking/Obj-C/Sudoku/build/Debug/Sudoku.app0#
+
